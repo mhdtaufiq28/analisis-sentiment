@@ -39,14 +39,14 @@ Opini publik di media sosial seringkali tidak terstruktur, beragam, dan tersebar
 ```text
 📦 analisis-sentiment-rempang
  ┣ 📂 data
- ┃ ┣ 📜 raw_tweets_rempang.csv   # Data hasil crawling (1.000 tweet)
- ┃ ┗ 📜 clean_labeled_data.csv   # Data bersih yang telah dilabeli InSet Lexicon
+ ┃ ┣ 📜 raw_tweets_rempang.csv    # Data hasil crawling (1.000 tweet)
+ ┃ ┗ 📜 clean_labeled_data.csv    # Data bersih yang telah dilabeli InSet Lexicon
  ┣ 📂 notebooks
  ┃ ┣ 📜 01_data_crawling_and_filtering.ipynb
  ┃ ┣ 📜 02_lexicon_labeling.ipynb
  ┃ ┣ 📜 03_tfidf_feature_extraction.ipynb
  ┃ ┗ 📜 04_naive_bayes_modeling_evaluation.ipynb
  ┣ 📂 models
- ┃ ┗ 📜 naive_bayes_model.pkl    # Model klasifikasi yang telah dilatih
- ┣ 📜 requirements.txt           # Daftar dependensi library
+ ┃ ┗ 📜 naive_bayes_model.pkl     # Model klasifikasi yang telah dilatih
+ ┣ 📜 requirements.txt            # Daftar dependensi library
  ┗ 📜 README.md
