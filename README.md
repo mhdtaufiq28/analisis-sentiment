@@ -50,3 +50,8 @@ Opini publik di media sosial seringkali tidak terstruktur, beragam, dan tersebar
  ┃ ┗ 📜 naive_bayes_model.pkl     # Model klasifikasi yang telah dilatih
  ┣ 📜 requirements.txt            # Daftar dependensi library
  ┗ 📜 README.md
+
+## 📚 Referensi & Dokumentasi Skripsi
+
+Dokumen naskah Skripsi / Tugas Akhir lengkap dapat diakses pada Repositori UIN Suska Riau:
+- 📄 **Tautan Repositori:** https://repository.uin-suska.ac.id/89488/
